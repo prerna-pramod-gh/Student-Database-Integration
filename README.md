@@ -60,16 +60,22 @@ Enter a Roll Number when prompted to verify the student and view their results.
 Initial Enrolled Roll Numbers: {101, 102, 103}
 
 --- Demonstrating Set Uniqueness ---
+
 Attempting to add duplicate Roll No 101...
 Current Roll Numbers: {101, 102, 103} (No change observed)
 
+
 --- Managing Records ---
+
 Added new student Roll No 104.
 Updated marks for Mohan (101): [80, 90, 85, 95]
 
+
 --- Student Result Processing ---
+
 Enter Roll Number to check result: 101
 Mohan passed with 87 average marks.
+
 
 -------------------------------------
 
